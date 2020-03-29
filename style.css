@@ -1,0 +1,9 @@
+.fabada {
+--main-bg-color: pink;
+width: 100px;
+color: black;
+}
+.fabada {
+background-color: var(--main-bg-color);  
+}
+
